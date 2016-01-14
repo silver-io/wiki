@@ -317,6 +317,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Roorke](https://www.facebook.com/groups/542330719257663/)
   - [Salem](https://www.facebook.com/groups/free.code.camp.salem/)
   - [Sialkot](https://www.facebook.com/groups/free.code.camp.sialkot/)
+  - [Siliguri](https://www.facebook.com/groups/free.code.camp.siliguri/)
   - [Srinagar](https://www.facebook.com/groups/free.code.camp.srinagar/)
   - [Surat](https://www.facebook.com/groups/free.code.camp.surat)
   - [Tirupathi](https://www.facebook.com/groups/933742263375311/)
