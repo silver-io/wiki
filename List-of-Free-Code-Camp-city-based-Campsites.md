@@ -725,6 +725,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Shelton](https://www.facebook.com/groups/free.code.camp.shelton.ct/)
   - Delaware    
     - [Lewes](https://www.facebook.com/groups/free.code.camp.lewes/)
+    - [Wilmington](https://www.facebook.com/groups/1671004189807965/)
   - District of Colombia
     - [Washington, D.C.](https://www.facebook.com/groups/free.code.camp.washington.dc/)
   - Florida
