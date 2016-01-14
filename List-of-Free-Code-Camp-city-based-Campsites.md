@@ -586,6 +586,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
 - South Korea
   - [Busan](https://www.facebook.com/groups/free.code.camp.busan/)
   - [Daegu](https://www.facebook.com/groups/free.code.camp.your.daegu/)
+  - [Gwangju](https://www.facebook.com/groups/204942919854198/)
   - [Jeonju](https://www.facebook.com/groups/free.code.camp.jeonju/)
   - [Seoul](https://www.facebook.com/groups/free.code.camp.seoul/)
 - Spain
