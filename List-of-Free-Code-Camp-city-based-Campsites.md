@@ -681,6 +681,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Alameda](https://www.facebook.com/groups/free.code.camp.berkeley/)
     - [Bakersfield](https://www.facebook.com/groups/free.code.camp.bakersfield.california/)
     - [Berkeley](https://www.facebook.com/groups/free.code.camp.berkeley/)
+    - [Emeryville](https://www.facebook.com/groups/free.code.camp.emeryville/)
     - [Folsom](https://www.facebook.com/groups/free.code.camp.folsom)
     - [Fremont](https://www.facebook.com/groups/free.code.camp.fremont/)
     - [Fresno](https://www.facebook.com/groups/free.code.camp.fresno.ca/)
@@ -959,6 +960,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Lynchburg](https://www.facebook.com/groups/free.code.camp.LYH/)
     - [Manassas](https://www.facebook.com/groups/free.code.camp.manassas/)
     - [Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk)
+    - [Petersburg](https://www.facebook.com/groups/free.code.camp.petersburg.va/)
     - [Richmond](https://www.facebook.com/groups/free.code.camp.richmond.va/)
     - [Virginia Beach](https://www.facebook.com/groups/free.code.camp.virginia.beach/)
   - Washington
